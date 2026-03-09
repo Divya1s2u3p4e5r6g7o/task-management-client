@@ -65,6 +65,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Project Title: Task Management Web Application
+
+GitHub Repositories:
+Frontend: https://github.com/Divya1s2u3p4e5r6g7o/task-management-client
+Backend: https://github.com/Divya1s2u3p4e5r6g7o/task-management-backend
+
+Live Project:
+Frontend: https://task-management-client-ten.vercel.app
+Backend API: https://task-management-backend-c45k.onrender.com
+
+Demo Video:
+https://drive.google.com/file/d/1IGAemoSE_vTXZgy4B_wlTsQf7oAuo3p9/view?usp=drive_link
+
+Project Report:
+https://docs.google.com/document/d/1eG0w50JU5wMuKm_20X2asL03yuGswAKQPImOGOA0ZTM/edit?usp=drive_link
